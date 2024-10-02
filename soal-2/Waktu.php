@@ -13,3 +13,4 @@ $contoh -> jam = 15;
 $contoh -> menit = 34;
 $contoh -> detik = 50;
 echo "Sekarang pukul ".$contoh->jam.":".$contoh->menit.":".$contoh->detik."<br>"; //output: Sekarang pukul 15:34:50
+?>
